@@ -9,9 +9,9 @@
 .settings
 .springBeans
 .sts4-cache
-.idea
+.idea/*
 ### IntelliJ IDEA ###
-.idea
+.idea/*
 *.iws
 *.iml
 *.ipr
